@@ -1,0 +1,2 @@
+Message: no such element: Unable to locate element: {"method":"css selector","selector":".pdp-mod-product-badge-title"}
+  (Session info: chrome=92.0.4515.159)
