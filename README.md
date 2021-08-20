@@ -3,7 +3,7 @@
 ## Setup and Installation
 #### Clone the repository
 ```
-git clone link .
+git clone https://github.com/talha-amir/Daraz-Scrapper-Using-Selenium-Python.git .
 ```
 #### Setup Virtual Environment (Optional)
 ```
