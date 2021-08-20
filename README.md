@@ -22,7 +22,7 @@ pip install -r requirements.txt
 ```
 python daraz.py -h
 ```
-#### Ouput:
+#### Output:
 ```
 usage: daraz.py [-h] [--pages PAGES] [--category CATEGORY]
 
