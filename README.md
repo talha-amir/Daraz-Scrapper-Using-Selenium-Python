@@ -1,4 +1,4 @@
-# Daraz Scrapper Using Selenium
+# Daraz Scrapper Using Selenium Python
 
 ## Setup and Installation
 #### Clone the repository
