@@ -1,23 +1,25 @@
 # Daraz Scrapper Using Selenium Python
+## Description:
+The Python script that scrapes all product information for a particular sub-category for all the pages 
 
 ## Setup and Installation
-#### Clone the repository
+#### Clone the repository:
 ```
 git clone https://github.com/talha-amir/Daraz-Scrapper-Using-Selenium-Python.git
 cd Daraz-Scrapper-Using-Selenium-Python
 ```
-#### Setup Virtual Environment (Optional)
+#### Setup Virtual Environment (Optional):
 ```
 pip install virtualenv
 python -m venv .venv
 cd .venv/scripts && activate.bat 
 cd ../../
 ```
-#### Installing the Libraries
+#### Installing the Libraries:
 ```
 pip install -r requirements.txt
 ```
-#### Usage
+#### Usage:
 
 ```
 python daraz.py -h
