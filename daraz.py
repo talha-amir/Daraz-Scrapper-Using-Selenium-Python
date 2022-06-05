@@ -22,7 +22,7 @@ class DarazScrapper:
         self.pages = pages
         self.exceptions = []
 
-        self.to_csv(header=False if isfile(self.file_name) else True)
+        self.to_csv(header=not isfile(self.file_name))
 
     def get_total_pages(self) -> int:
         return int(self.driver.find_element_by_xpath(
